@@ -152,7 +152,7 @@ plt.show()
 
 Hasil visualisasi dari kode tersebut adalah terbentuk grafik sebagai berikut.
 
-![alt text](image-4.png)
+![Images/Distribution of Book Rating.png](https://github.com/ilhamramadhan-m/BookRecommendation_CC2025/blob/main/Images/Distribution%20of%20Book%20Rating.png)
 
 Hasil visualisasi menunjukkan bahwa mayoritas pengguna cenderung memberikan rating tinggi, terutama pada nilai rentang 7 hingga 10. Sementara itu, rating rendah (1–3) relatif jarang diberikan. Distribusi ini mengindikasikan adanya bias positif dalam sistem penilaian buku, yang umum ditemukan pada data crowdsourced, di mana pengguna cenderung menilai buku yang mereka sukai.
 
@@ -177,7 +177,7 @@ plt.show()
 
 Dengan menggunakan kode tersebut, didapatkan visualisasi sebagai berikut.
 
-![alt text](image-5.png)
+![alt text](https://github.com/ilhamramadhan-m/BookRecommendation_CC2025/blob/main/Images/Distribution%20of%20Book%20Publication%20Year.png)
 
 Dari visualisasi ini terlihat bahwa sebagian besar buku dalam dataset diterbitkan antara tahun 1990 hingga awal 2000-an. Puncak publikasi terjadi pada tahun-tahun seperti 1999 dan 2002. Ini menandakan bahwa dataset memiliki fokus pada literatur modern dari dua dekade terakhir abad ke-20, yang cukup representatif untuk sistem rekomendasi buku kontemporer.
 
@@ -201,7 +201,7 @@ plt.show()
 
 Dengan menggunakan kode tersebut, didapatkan visualisasi penyebaran pengguna sebagai berikut.
 
-![alt text](image-6.png)
+![alt text](https://github.com/ilhamramadhan-m/BookRecommendation_CC2025/blob/main/Images/User%20Location.png)
 
 Visualisasi ini menunjukkan bahwa sebagian besar pengguna berasal dari negara-negara dengan penetrasi internet yang tinggi, seperti Amerika Serikat, Kanada, dan Inggris. Hal ini mencerminkan distribusi penggunaan layanan berbasis buku yang cenderung terpusat di negara-negara berbahasa Inggris, yang juga menjadi target pasar utama bagi banyak sistem rekomendasi literatur digital.
 
@@ -688,7 +688,7 @@ Berdasarkan evaluasi yang telah dilakukan, dapat disimpulkan bahwa Content-based
 
 ### Evaluasi Collaborative Filtering
 
-![alt text](image-3.png)
+![alt text](https://github.com/ilhamramadhan-m/BookRecommendation_CC2025/blob/main/Images/MSE%20Evaluation.png)
 
 Berdasarkan grafik evaluasi tersebut dapat diambil beberapa informasi sebagai berikut.
 - RMSE Training menurun secara signifikan hingga stabil yang berarti model mampu belajar pola dari data.
